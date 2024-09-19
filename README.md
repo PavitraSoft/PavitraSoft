@@ -1,8 +1,9 @@
 # 👋 Hi, I’m @PavitraSoft 
-👀 I’m interested in developing innovative software solutions for businesses, ranging from web development to digital marketing, app development, and beyond.</b>
-🌱 I’m currently learning the latest advancements in AI, automation, and cutting-edge tech to provide even better services for our clients.</b>
-💞️ I’m looking to collaborate on projects involving digital transformation, business automation tools, and innovative branding strategies.</b>
-📫 How to reach me: </b>
+
+- 👀 I’m interested in developing innovative software solutions for businesses, ranging from web development to digital marketing, app development, and beyond.</b>
+- 🌱 I’m currently learning the latest advancements in AI, automation, and cutting-edge tech to provide even better services for our clients.</b>
+- 💞️ I’m looking to collaborate on projects involving digital transformation, business automation tools, and innovative branding strategies.</b>
+- 📫 How to reach me: </b>
 
 ### Website: www.pavitrasoft.in 
 ### Email: contact@pavitrasoft.in
