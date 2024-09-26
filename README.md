@@ -44,7 +44,7 @@
 
 
 <div style="display:flex; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=deep-santani&count_private=true&&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PavitraSoft&count_private=true&&show_icons=true&theme=dark" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-santani" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavitraSoft" />
